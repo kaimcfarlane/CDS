@@ -1,1 +1,1 @@
-# CDS
+# Canvas Docking Station (CDS)
